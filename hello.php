@@ -1,7 +1,7 @@
 <?php
 <<<<<<< HEAD
 echo 'hello<br>';
-echo 'World'
+echo 'World 2016'
 =======
 echo 'hello';
 echo 'Ha Ha';
