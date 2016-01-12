@@ -1,7 +1,7 @@
 <?php
 <<<<<<< HEAD
 echo 'hello<br>';
-echo 'World 2016';
+echo 'World';
 echo 'Good Morning';
 echo 'Good Afternoon';
 echo 'Good Evening';
