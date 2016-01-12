@@ -1,12 +1,12 @@
 <?php
-<<<<<<< HEAD
 echo 'hello<br>';
-echo 'World 2016';
+echo 'World';
 echo 'Good Morning';
 echo 'Good Afternoon';
-=======
+echo 'Good Evening';
+echo 'Good Night';
+
 echo 'hello3';
 echo 'Ha Ha';
 echo 'Happy Happy Ja';
->>>>>>> origin/master
 ?>
